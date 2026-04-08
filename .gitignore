@@ -1,0 +1,32 @@
+# Ignorar carpeta de documentos
+Documentos/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos compilados (Java)
+*.class
+
+# Carpeta de build
+build/
+out/
+target/
+
+# Dependencias (Node, si llegas a usar)
+node_modules/
+
+# Configuración de IDEs
+.idea/
+.vscode/
+*.iml
+
+# Archivos de entorno
+.env
