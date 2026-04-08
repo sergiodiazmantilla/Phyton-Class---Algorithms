@@ -14,8 +14,8 @@ El objetivo de este repositorio es documentar mi progreso en el curso, reforzand
 
 ## 🚀 Tecnologías utilizadas
 
-- Lenguaje(s): *(puedes completar aquí, por ejemplo: Java, Python, etc.)*
-- IDE: *(opcional, por ejemplo: IntelliJ, VS Code, etc.)*
+- Lenguaje: Python
+- IDE: Visual Studio Code
 
 ## 📁 Estructura del repositorio
 /
