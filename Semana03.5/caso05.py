@@ -29,3 +29,11 @@ base = 2
 exponente = 10
 resultado = potencia(base, exponente)
 print(f"{base} elevado a la {exponente} es: {resultado}")
+
+
+#Aplicaciones
+# 1. Cálculo de potencias en criptografía
+# 2. Cálculo de potencias en gráficos por computadora
+# 3. Cálculo de potencias en algoritmos de búsqueda
+# 4. Cálculo de potencias en algoritmos de optimización
+# 5. Cálculo de potencias en algoritmos de aprendizaje automático
