@@ -11,6 +11,8 @@ El objetivo de este repositorio es documentar mi progreso en el curso, reforzand
 - Ejercicios básicos de algoritmos
 - Prácticas de lógica de programación
 - Implementaciones progresivas según el avance del curso
+- Casos Personales incluidos dentro del curso
+- Exámenes desarrollados dentro del curso
 
 ## 🚀 Tecnologías utilizadas
 
@@ -18,12 +20,12 @@ El objetivo de este repositorio es documentar mi progreso en el curso, reforzand
 - IDE: Visual Studio Code
 
 ## 📁 Estructura del repositorio
-/
-├── Semana##/ (irá aumentando con el avance en el curso Ej: Semana04, Semana05)
-├── Proyecto/
-├── Documentos/ (ignorado en Git)
-└── README.md
-
+- Practicando:  Casos prácticos personales que se desarrollaron de forma individual fuera del curso.
+- Semanas:      Casos prácticos desarrollados dentro del curso.
+- PC:           Practicas de Campo desarrolladas dentro de un plazo especifico en el curso.
+- T1:           Exámen T1 del Curso
+- T2:           Exámen T2 del Curso
+- EF:           Exámen Final del Curso
 
 ## 📌 Notas
 
