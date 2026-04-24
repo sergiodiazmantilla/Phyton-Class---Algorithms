@@ -26,6 +26,7 @@ El objetivo de este repositorio es documentar mi progreso en el curso, reforzand
 - T1:           Exámen T1 del Curso
 - T2:           Exámen T2 del Curso
 - EF:           Exámen Final del Curso
+- IMG:          Imagenes Creadas, Descargadas o Requeridas dentro del curso.
 
 ## 📌 Notas
 
