@@ -1,0 +1,13 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "as",
+        "categoria": "as",
+        "proveedor": "as",
+        "costo": 23.0,
+        "precio_venta": 34.0,
+        "stock": 12,
+        "stock_minimo": 34,
+        "fecha_ingreso": "2025-12-12"
+    }
+]
