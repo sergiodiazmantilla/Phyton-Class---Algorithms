@@ -1,0 +1,11 @@
+timestamp,track_id,risk_level,alerts,tiempo_permanencia,repeticiones_zona,velocidad_movimiento,cambio_direccion,entrada_zona_restringida,objeto_abandonado,distancia_objeto_persona,horario_inusual,interaccion_puerta,movimiento_agresivo,numero_personas_grupo,cobertura_rostro
+2026-04-25 17:47:28,491f88e8,MEDIO,Proximidad a objeto abandonado,19.17,1,0.0,0,0,1,111.02,0,0,0,1,0
+2026-04-25 17:47:28,f36466b3,MEDIO,Proximidad a objeto abandonado,7.86,0,0.0,0,0,1,134.94,0,0,0,2,0
+2026-04-25 17:47:33,8039ec4f,MEDIO,Proximidad a objeto abandonado,2.14,0,32.67,0,0,1,67.36,0,0,0,1,0
+2026-04-25 17:47:45,2bc0d2c5,MEDIO,Proximidad a objeto abandonado,9.37,0,0.0,0,0,1,135.86,0,0,0,3,0
+2026-04-25 17:47:46,f36466b3,MEDIO,Permanencia prolongada | Proximidad a objeto abandonado,25.53,0,4.85,6,0,1,53.0,0,0,0,1,0
+2026-04-25 17:47:53,4f62773f,MEDIO,Proximidad a objeto abandonado,0.0,1,0.0,0,0,1,75.47,0,0,0,1,0
+2026-04-25 17:48:11,4f62773f,MEDIO,Proximidad a objeto abandonado,18.22,1,1.02,0,0,1,132.83,0,0,0,1,0
+2026-04-25 17:48:15,c10360ec,MEDIO,Proximidad a objeto abandonado,0.0,1,0.0,0,0,1,137.38,0,0,0,1,0
+2026-04-25 17:48:19,4f62773f,MEDIO,Permanencia prolongada | Proximidad a objeto abandonado,26.63,1,1.02,0,0,1,139.95,0,0,0,1,0
+2026-04-25 17:48:24,c10360ec,MEDIO,Proximidad a objeto abandonado,8.68,1,0.0,0,0,1,105.0,0,0,0,1,0
